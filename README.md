@@ -1,6 +1,7 @@
 HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 =======
-![Peek 2022-01-24 11-06](https://im.ezgif.com/tmp/ezgif-1-9aa743c1cc.gif)
+![Peek 2022-01-24 11-06](![site-demo](https://user-images.githubusercontent.com/68800076/189545690-f791ab9d-2c4d-4f65-a3c1-7c984c34153e.gif)
+
 
 # Tools used #
 * HTML, CSS and JavaScript
