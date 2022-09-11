@@ -1,6 +1,6 @@
 HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 =======
-[site-demo](https://user-images.githubusercontent.com/68800076/189545690-f791ab9d-2c4d-4f65-a3c1-7c984c34153e.gif)
+(https://user-images.githubusercontent.com/68800076/189545690-f791ab9d-2c4d-4f65-a3c1-7c984c34153e.gif)
 
 
 # Tools used #
