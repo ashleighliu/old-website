@@ -11,4 +11,4 @@ HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 
 This is the [live demo](https://ashleighliu.github.io/) of the project, feel free to check it out! :) 
 
-Website outline designed by [Sampurna Chapagain](https://www.freecodecamp.org/news/author/sampurna/)
+<sup><sub>Website outline designed by [Sampurna Chapagain](https://www.freecodecamp.org/news/author/sampurna/)</sub></sup>
